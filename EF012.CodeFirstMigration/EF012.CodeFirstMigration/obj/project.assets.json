@@ -3754,11 +3754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murad3D\\source\\repos\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration.csproj",
+      "projectUniqueName": "D:\\05-EF-Core\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration.csproj",
       "projectName": "EF012.CodeFirstMigration",
-      "projectPath": "C:\\Users\\murad3D\\source\\repos\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration.csproj",
+      "projectPath": "D:\\05-EF-Core\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration.csproj",
       "packagesPath": "C:\\Users\\murad3D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murad3D\\source\\repos\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration\\obj\\",
+      "outputPath": "D:\\05-EF-Core\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\murad3D\\AppData\\Roaming\\NuGet\\NuGet.Config",

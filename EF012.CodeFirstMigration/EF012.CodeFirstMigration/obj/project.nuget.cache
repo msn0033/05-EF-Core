@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q5+DfCkZPsRY8xpQ6yub2WIydj3Z+RQO+5D6zrcJ2otghbpNFk2qaAq28uzawfNvMeX/dB0uQiRIFvFDd4tYWQ==",
+  "dgSpecHash": "EfgClfMKEm9PI5xTPjZFH9ynMWFmBPQrYyIuA0hn/rLp/1IJeOkdPjfhCjjqdlnpwI8akRETGO/Fn/DnmfDKGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\murad3D\\source\\repos\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration.csproj",
+  "projectFilePath": "D:\\05-EF-Core\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration\\EF012.CodeFirstMigration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\murad3D\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\murad3D\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

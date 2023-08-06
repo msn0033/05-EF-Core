@@ -31,7 +31,7 @@ namespace EF012.CodeFirstMigration.Dto
             string THU = Schedule!.THU ? " X " : "  ";
             string FRI = Schedule!.FRI ? " X " : "  ";
             string SAT = Schedule!.SAT ? " X " : "  ";
-           var x = $"| {Id.ToString().PadLeft(2, '0')} | {Course.CourseName,-12} | {SectionName,-7} | {Instructor?.FName + " " + Instructor?.LName,-20} | {Schedule?.Title?.ToString()?.PadRight(14)} | " +
+           var x = $"| {Id.ToString().PadLeft(2, '0')} | {Course.CourseName,-12} | {SectionName,-7} | {Instructor?.FName + " " + Instructor?.LName,-20} | {Schedule.Title.ToString()?.PadRight(14)} | " +
                 $"{StartTime.ToString("hh\\:mm")} - {EndTime.ToString("hh\\:mm").PadRight(5)} "+
                 $"| {SUN.PadRight(3)} | {MON.PadRight(3)} | {TUE.PadRight(3)} | {WED.PadRight(3)} | {THU.PadRight(3)} | {FRI.PadRight(3)} | {SAT.PadRight(3)} |";
          //   var x = "";
